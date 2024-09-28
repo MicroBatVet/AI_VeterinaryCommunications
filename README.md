@@ -11,7 +11,7 @@ Ross University School of Veterinary Medicine, St. Kitts, West Indies (RUSVM)
 
 **Maintainer of Repository
 
-This repository contains the raw data (note: date of birth and age redacted) and R code for the statistical analysis and figure generation of the above research study and accompanying peer-review manuscript.
+This repository contains redacted raw data (data redacted: Respondent, Collector ID, IP address, Age, and birth year) and R code for the statistical analysis and figure generation of the above research study and accompanying peer-review manuscript.
 
 Abstract
 
